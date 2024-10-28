@@ -48,7 +48,7 @@ export default function SkillTest() {
             </p>
           </div>
         </div>
-        <Button className="bg-blue-500 text-white" onClick={openDialog}>Update</Button>
+        <Button className="ml-7 bg-blue-500 text-white" onClick={openDialog}>Update</Button>
       </div>
 
       {isDialogOpen && (
